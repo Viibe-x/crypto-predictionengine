@@ -1,21 +1,134 @@
-MIT License
+DexScannerBot Personal Use License
+Version 1.0
 
 Copyright (c) 2026 Viibe-x
+https://github.com/Viibe-x
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights not expressly granted below are reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+
+1. DEFINITIONS
+
+"Software" means the DexScannerBot source code, compiled programs, dashboard,
+documentation and any other files in this repository, including modified
+versions of them.
+
+"Author" means the copyright holder named above.
+
+"You" means the individual person who receives the Software.
+
+"Personal Use" means use by You, as an individual, for Your own purposes,
+including research, learning, experimenting, and trading with Your own money
+in Your own wallets and accounts. Profits You make from trading Your own funds
+are Personal Use.
+
+"Commercial Use" means any use that is not Personal Use, including any use
+that directly or indirectly earns money from other people, or any use by or on
+behalf of a company, fund, or other organization.
+
+"Output" means anything the Software produces, including signals, alerts,
+predictions, probabilities, scores, rankings, and execution plans.
+
+
+2. WHAT YOU MAY DO
+
+Subject to the conditions in this license, the Author grants You a free,
+worldwide, non-exclusive, non-transferable license to:
+
+  a. download, view, and study the Software;
+  b. build and run the Software for Personal Use;
+  c. modify the Software for Personal Use;
+  d. fork the repository on GitHub;
+  e. share copies of the Software, modified or not, free of charge, only for
+     other people's Personal Use, provided that:
+       - this license file and the copyright notice are included unchanged;
+       - modified files carry a clear notice that You changed them; and
+       - You do not charge anything for the copy or for access to it.
+
+
+3. WHAT YOU MAY NOT DO WITHOUT WRITTEN PERMISSION
+
+Unless the Author gives You written permission, You may not:
+
+  a. sell, rent, lease, sublicense, or otherwise charge for the Software or
+     any part of it;
+  b. offer the Software, or any service built on it, to others for payment,
+     including hosted bots, subscriptions, software-as-a-service, or paid
+     access to a dashboard;
+  c. sell, resell, or distribute the Output to others for payment, including
+     through paid Telegram, Discord, or other signal or alert groups;
+  d. use the Software or its Output to trade, manage, or advise on money or
+     assets belonging to anyone other than You;
+  e. use the Software for any other Commercial Use;
+  f. remove, alter, or hide this license or the copyright notice; or
+  g. use the Author's name or GitHub username to endorse or promote any
+     product, service, or fork without permission.
+
+To ask for a commercial license or other permission, open an issue on the
+GitHub repository or contact the Author through GitHub.
+
+
+4. CONTRIBUTIONS
+
+If You submit a contribution to this repository (for example, a pull request),
+You confirm that You have the right to submit it, and You grant the Author a
+perpetual, worldwide, free, irrevocable license to use, modify, distribute, and
+relicense that contribution under any terms, including this license.
+
+
+5. THIRD-PARTY COMPONENTS AND DATA
+
+The Software uses third-party libraries (such as Npgsql) that are licensed
+under their own terms, which continue to apply to those libraries.
+
+The Software reads data from third-party services, including DexScreener,
+RugCheck, GoPlus, and optionally Helius. You are responsible for complying with
+the terms of service and rate limits of every service You use with the
+Software. This license grants no rights to any third-party data or service.
+
+
+6. NOT FINANCIAL ADVICE
+
+The Software and its Output are provided for informational and educational
+purposes only. They are not financial, investment, legal, or tax advice, and
+they are not a recommendation to buy, sell, or hold any asset.
+
+Cryptocurrency and memecoin trading is extremely risky. Tokens can lose all of
+their value within minutes, including through scams that the Software fails to
+detect. Predictions can be wrong. You alone are responsible for every trade You
+make and every loss You incur.
+
+
+7. NO WARRANTY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. THE AUTHOR
+DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, THAT ITS OUTPUT WILL BE
+ACCURATE OR PROFITABLE, OR THAT IT WILL DETECT FRAUDULENT TOKENS.
+
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHOR OR ANY
+CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, INCLUDING ANY
+TRADING LOSSES, LOST PROFITS, LOST FUNDS, OR INDIRECT, INCIDENTAL, SPECIAL, OR
+CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE, ITS OUTPUT, OR THE
+USE OF OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+9. TERMINATION
+
+This license ends automatically if You break any of its terms. If You stop the
+breach and fix its effects within 30 days of first learning of it, Your license
+is reinstated, unless the Author has told You in writing that it is not. After
+termination You must stop using the Software and delete Your copies. Sections
+5 to 8 survive termination.
+
+
+10. CHANGES TO THIS LICENSE
+
+The Author may publish new versions of this license for future releases. The
+version included with a copy of the Software is the one that applies to that
+copy.
